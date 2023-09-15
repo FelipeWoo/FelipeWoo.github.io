@@ -6639,7 +6639,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
+     inkscape:zoom="0.84095238"
      inkscape:cx="907.65437"
      inkscape:cy="445.55293"
      inkscape:document-units="mm"
@@ -6648,10 +6648,10 @@
      showgrid="false"
      units="px"
      width="1600px"
-     inkscape:window-width="1920"
+     inkscape:window-width="2492"
      inkscape:window-height="1056"
-     inkscape:window-x="361"
-     inkscape:window-y="1080"
+     inkscape:window-x="68"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -6661,7 +6661,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6698,15 +6698,15 @@
        y="-5.5511151e-17" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:42.3333px;line-height:1.25;font-family:sans-serif;fill:#e10000;fill-opacity:1;stroke:#580000;stroke-width:0.765;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.574879"
-       x="56.007626"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#e10000;fill-opacity:1;stroke:#580000;stroke-width:0.765;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.574879"
+       x="56.94923"
        y="74.425331"
        id="text3394"><tspan
          sodipodi:role="line"
          id="tspan3392"
-         x="56.007626"
+         x="56.94923"
          y="74.425331"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.3333px;font-family:Z003;-inkscape-font-specification:'Z003 Bold Italic';fill:#e10000;fill-opacity:1;stroke:#580000;stroke-width:0.765;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.574879">Plazos de Apartados</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std Bold Italic';fill:#e10000;fill-opacity:1;stroke:#580000;stroke-width:0.765;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.574879">Plazos de Apartados</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:0;font-family:sans-serif;fill:#ec0000;fill-opacity:1;stroke:#640000;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.625403"
